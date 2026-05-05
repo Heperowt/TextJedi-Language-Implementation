@@ -1,0 +1,5 @@
+new text myText;  new int myInt; /* Two declarations*/
+MyText := "Hello world";
+myInt:=0;
+MyText:= MyText + asString(myInt);
+output myText;  /* Write it on screen*/
